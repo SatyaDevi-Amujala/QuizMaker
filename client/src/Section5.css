@@ -1,0 +1,13 @@
+.bdy4{
+    background-color:rgba(248, 242, 155, 0.959);
+    
+   border-radius:5px;
+    border:2px solid  rgb(241, 236, 236);}
+    .inputl{
+        width:15%;
+        padding:3px;
+        margin:25px;
+        border-radius:15px;
+        border:2px solid rgb(241, 236, 236);
+       
+    }

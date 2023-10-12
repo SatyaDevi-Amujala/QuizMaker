@@ -1,0 +1,31 @@
+.col1{
+    min-height:30px;
+    min-width:100px;
+    background-color:#e4879e;
+    border-radius:5px;
+   margin:15px 0 25px 0;
+   padding:5px;
+}
+.ques2{
+    border:2px solid gray;
+    border-radius:15px;} 
+.match{
+    min-height:30px;
+    min-width:120px;
+    background-color:#eec0cb;
+    border:2px solid rgb(236, 129, 129);
+    border-radius:5px;
+    padding:2px 25px 2px 25px;
+  
+}
+.col2{
+    min-height:30px;
+    min-width:100px;
+    border-radius:5px;
+    border:2px solid rgb(236, 230, 230);
+   margin:15px 0 25px 0;
+   padding:3px;
+}
+
+
+

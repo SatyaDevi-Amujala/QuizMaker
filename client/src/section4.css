@@ -1,0 +1,28 @@
+.bdy3{
+    background-color:#eeb1dc;
+   border-radius:5px;
+    border:2px solid  rgb(241, 236, 236);}
+    
+    .cat4{
+        border-radius:7px;
+        border:2px solid rgb(241, 236, 236);
+        margin:0px 3px 0px 4px;
+       
+    }
+    .input4{
+        
+        padding:3px;
+        margin:25px;
+        width:90%;
+        border-radius:15px;
+        border:2px solid rgb(241, 236, 236);
+        font-size:20px;
+    }
+    .inputl{
+        width:15%;
+        padding:3px;
+        margin:25px;
+        border-radius:15px;
+        border:2px solid rgb(241, 236, 236);
+       
+    }

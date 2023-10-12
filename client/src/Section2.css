@@ -1,0 +1,20 @@
+.bdy1{
+    background-color:#ffd2d2;
+   border-radius:5px;
+    border:2px solid  rgb(241, 236, 236);}
+    .input1{
+        width:90%;
+        padding:3px;
+        margin:25px;
+        border-radius:15px;
+        border:2px solid rgb(241, 236, 236);
+        font-size:20px;
+    }
+    .inputl{
+        width:15%;
+        padding:3px;
+        margin:25px;
+        border-radius:15px;
+        border:2px solid rgb(241, 236, 236);
+       
+    }
